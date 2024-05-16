@@ -402,7 +402,7 @@ parameters_dict = {
 }
 ```
 ## Code specifications
-A python script train_partA.py was created that accepts the following command line arguments with the specified values
+A python script with attention and with out attention was created that accepts the following command line arguments with the specified values
 
 ```
 | Name | Default Value | Description |
